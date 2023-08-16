@@ -10,7 +10,7 @@ interface TweetProps {
 export function Tweet(props: TweetProps) {
   return (
     <Link className='tweet' to='/tweet'>
-      <img src="https://github.com/diego3g.png" alt="Diego Fernandes" />
+      <img src="https://github.com/Esmeraldino-gomes9690.png" alt="Esmeraldino Gomes" />
 
       <div className="tweet-content">
         <div className="tweet-content-header">
