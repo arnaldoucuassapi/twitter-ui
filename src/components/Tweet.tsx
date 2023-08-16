@@ -14,7 +14,7 @@ export function Tweet(props: TweetProps) {
 
       <div className="tweet-content">
         <div className="tweet-content-header">
-          <strong>Diego Fernandes</strong>
+          <strong>Esmeraldino Gomes</strong>
           <span>@dieegosf</span>
         </div>
 
